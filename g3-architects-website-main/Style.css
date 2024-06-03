@@ -1,0 +1,184 @@
+.BOss{
+    width: 1340px;
+    height: 900px;
+    background-color: #fae1e4;
+    text-align: center;
+}
+.BOss-0{
+  padding-top: 6rem;
+  padding-left: 4rem;
+}
+.header{
+    display: flex;
+}
+li{
+    list-style: none;
+    font-size: 20px;
+    color: grey;
+    padding-left: 34px;
+    padding-top: 50px;
+}
+.Biig{
+    font-size: 3rem;
+    padding-right: 27rem;
+    padding-left: 12rem;
+}
+.button {
+    background-color: #f39417; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    border-radius: 8px;
+  }
+  .control-btn{
+    text-align: center;
+    padding-bottom: 30px;
+  }
+  .h1{
+    font-size: 4rem;
+    text-align: center;
+  }
+  .span{
+    padding-left: 40px;
+  }
+  .p-1{
+    text-align: center;
+    color: grey;
+    font-size: 20px;
+  }
+  .flex{
+    padding-top: 2rem;
+  }
+   .pr{
+    padding-right: 20px;
+   } 
+   .color{
+    padding-left: 60px;
+    color: #535252;
+    font-size: 3rem;
+   }
+   .color-1{
+    color: #af470b;
+    font-size: 3rem;
+    padding-left: 11rem;
+   }
+   .p-0{
+    color: #414040;
+    font-size: 23px;
+  }
+  .wee{
+    padding-left: 3rem;
+    padding-top: 12rem;
+
+  }
+  .I-Boos-heRe{
+    display: flex;
+  }
+  .h1-1{
+    font-size: 3rem;
+  }
+  .control-btn-1{
+    text-align: center;
+  }
+  .bacck{
+    width: 300px;
+    padding: 30px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    background: #FFF;
+    box-shadow: 0px 4px 30px 0px;
+    background-color: #f0efef;
+  }
+  
+  .p-2{
+    padding-left: 3rem;
+  }
+   .master-1{
+    padding-left: 5rem;
+  } 
+  .master-0{
+    display: flex;
+    padding-bottom: 0;
+  }
+  .bttn{
+    background-color: #fc9004; 
+    border: none;
+    color: white;
+    padding: 60px 100px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 35px;
+    border-radius: 8px;
+  }
+  .handle-mee{
+    padding-top: 56rem;
+    padding-left: 6rem;
+    background-image: url('images/architect.png');
+    background-repeat: no-repeat;
+    width: 560px; 
+    height:120px;
+  }
+  .img{
+    padding-left: 9rem;
+    padding-top: 170px;
+  }
+  .div-editor{
+    width: 270px;
+    height: 300px;
+    background-color: #f5ccbe;
+  }
+  .padding{
+    padding-bottom: 3rem;
+  }
+  .font-SEC-3{
+    font-size: 4rem;
+    font-weight: 300;
+  }
+.p-6{
+  font-size: 20px;
+  color: #414040;
+
+}
+.font-size{
+  font-size: 60px;
+  text-align: center;
+}
+.font-size-1{
+height: 70px;
+width: 70px;
+}
+.center{
+  padding-left: 6rem;
+  padding-top: 1rem;
+}
+.edit{
+  font-size: 2rem;
+text-align: center;
+}
+.flex-1{
+  padding-top: 4rem;
+  display:flex;
+  gap: 23px;
+  padding-left: 100px;
+}
+.flex-2{
+  padding-top: 4rem;
+  display:flex;
+  gap: 72px;
+  padding-left: 100px;
+  padding-bottom: 3rem;
+}
+.h1-2{
+  font-size: 4rem;
+  text-align: center;
+  padding-top: 5rem;
+}
+.p-7{
+  font-size: 19px;
+  text-align: center;
+}
